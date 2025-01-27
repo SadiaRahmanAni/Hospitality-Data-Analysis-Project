@@ -1,7 +1,7 @@
 Power BI Hospitality Report - README
 ![Alt text](./Hospitality Data Analysis.png)
 Overview
-
+--
 This Power BI report provides insights into key metrics for the hospitality sector, enabling data-driven decision-making. The dashboard aggregates and visualizes data to highlight performance indicators such as revenue, RevPAR, ADR, occupancy rates, and more, across various dimensions like cities, room classes, and booking platforms.
 
 Features
